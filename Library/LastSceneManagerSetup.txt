@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Tower.unity
+- path: Assets/Scenes/lab3/lab3zad5.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
